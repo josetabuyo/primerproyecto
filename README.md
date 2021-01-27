@@ -1,16 +1,28 @@
 # primerproyecto
-Primer proyecto GitHub utilizando tecnología React
-Aplicaciones:
+
+Primer proyecto GitHub utilizando tecnología React.
+
+
+
 
 Cómo son las aplicaciones?
 
-Infraestructura:
-Computadoras que corren programas
+Las aplicaciones necesitan muchas cosas para que una persona las use como herramienta en su mano, un celu, una pc, por ej.
+- Código es lo mismo que decir parte de programa.
+- Compilado es cuando se interpreta y empaqueta ese código (no todos los lenguajes necesitan ser compilados)
+
+
+
+## Infraestructura:
+Las computadoras que corren los programas intervinientes en una aplicación
 
   Servidor
-    corre programa llamado backend, por ejemplo
+    para una aplicación puntual, es comun ver que corra la parte del código que llamado backend
+  
+  
   Clientes (PCs de muchas personas que entran a una web)
-    corre programas como el gchrome, el browser, por ejemplo
+    corre programa como el gchrome, el browser, por ejemplo
+
 
 
 Se comunican con protocolo HTTP
@@ -25,12 +37,14 @@ el texto HTML!
 
 
 
+
 Formas de comunicarse con HTTP, las PC de los clientes y la PC del servidor.
 el boca vs river es: SOAP vs REST
 Nosotros usaremos el más nuevo, el recomendado, REST
 
 https://www.idento.es/blog/desarrollo-web/que-es-una-api-rest/
  
+
 
 Verbos:
 
