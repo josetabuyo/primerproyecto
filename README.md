@@ -106,4 +106,42 @@ backend en **servidor** lo recibe y devuelve un HTML
 HTML se interpreta en browser
 Se visualizan elementos HTML con estilo escrito en CSS y funcionalidades programadas en scripts de javascript
 
+
+https://quimeytabuyo.github.io/primerproyecto/PaginaPrueba.html
+
+
+
+
+
+
+Ver estado:
+    1  git status
+
+Ver diferencias:
+    2  git diff
+   
+Formas de ver archivo en linux( consola git bash o linux)
+Scroll, entero, cabeza, cola
+
+    3 less README.md
+    4  cat README.md
+    5  head README.md
+    6  tail README.md
+	
+Agregar todos los cambios al paquete:
+    8  git add --all
+
+Se cierra paquete con mensaje:
+   11  git commit -m "Paquete de cambios numero 3"
+  
+Configuraciones necesesarias para clonar por primera vez:
+   12  git config --global user.email "quimeytabuyo@gmail.com"
+   13  git config --global user.name "Quimey Tabuyo"
+   
+Subir todos los paquetes a la nube:
+   15  git push origin master
+   
+ El linux o git bash pone la historia de comandos:  
+   16  history
+
  
