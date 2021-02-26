@@ -1,0 +1,31 @@
+body {
+	background-color: rgb(255,100,255);
+}
+
+
+
+.popo {	
+	background-color: rgb(199,220,250);
+}
+
+
+
+#heading_tomato {	
+	background-color: rgb(100,100,100);
+	
+}
+h3 {
+	font-size:150%;
+}
+.cajita h1 {
+  border: 5px outset red;
+  background-color: white;
+  text-align: left;
+}
+	.body h2 {
+		border: 6px outset blue;
+		background-color: whithe;
+		font-size: 200%;
+		text-align: center;
+		
+		
